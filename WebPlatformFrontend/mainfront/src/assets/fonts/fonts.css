@@ -1,0 +1,32 @@
+@charset "UTF-8";
+@font-face {
+    font-family: "Monteserrat-Bold";
+    src: url("../../../public/fonts/Montserrat/Montserrat-Bold.woff") format('woff');
+}
+
+
+/* 600 */
+
+@font-face {
+    font-family: "Monteserrat-SemiBold";
+    src: url("../../../public/fonts/Montserrat/Montserrat-SemiBold.woff") format('woff');
+}
+
+
+/* 500 */
+
+@font-face {
+    font-family: "Monteserrat-Medium";
+    src: url("../../../public/fonts/Montserrat/Montserrat-Medium.woff") format('woff');
+}
+
+@font-face {
+    font-family: "Monteserrat-Regular";
+    src: url("../../../public/fonts/Montserrat/Montserrat-Regular.woff") format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Montserrat-Light";
+    src: url("../../../public/fonts/Montserrat/Montserrat-Light.woff") format('woff');
+}
